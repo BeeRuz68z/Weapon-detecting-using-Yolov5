@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/weapon_data/images/train 
+val:  /content/drive/MyDrive/weapon_data/images/val
+test: /content/drive/MyDrive/weapon_data/images/test
+# number of classes 
+nc: 1 
+# class names 
+names: ["weapon"]
